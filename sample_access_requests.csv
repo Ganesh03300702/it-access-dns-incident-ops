@@ -1,0 +1,6 @@
+request_id,username,full_name,department,role,action,requested_by,approved_by
+REQ-1001,arjun.mehta,Arjun Mehta,Platform Infra,Ops-L1,GRANT,hr.onboarding,lead.infra
+REQ-1002,priya.nair,Priya Nair,Payments Tech,Developer-ReadOnly,GRANT,eng.manager,lead.infra
+REQ-1003,rohan.verma,Rohan Verma,IT Support,AD-Admin-Temp,GRANT,it.helpdesk,security.lead
+REQ-1004,rohan.verma,Rohan Verma,IT Support,AD-Admin-Temp,REVOKE,it.helpdesk,security.lead
+REQ-1005,sneha.rao,Sneha Rao,Data Ops,Analytics-Viewer,GRANT,data.manager,lead.infra
